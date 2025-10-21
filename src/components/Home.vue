@@ -3,8 +3,8 @@
     
     <main>
         <section class="hero">
-            <h2>Welcome to My Portfolio!</h2>
-            <p>Here are some of my recent projects</p>
+            <h2>Bienvenido a mi portafolio!</h2>
+            <p>Estos son algunos de mis proyectos más recientes.</p>
         </section>
         
         <section class="projects-grid" id="projects-container">
